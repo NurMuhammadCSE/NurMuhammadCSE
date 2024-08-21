@@ -10,11 +10,7 @@
 
 - 📫 How to reach me **nurmuhammadd2003@gmail.com**
 
-- ⚡ Fun fact **I love to make people love and be happy myself**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I love to make people laugh and keep myself happy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="Center">
