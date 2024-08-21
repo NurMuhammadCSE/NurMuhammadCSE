@@ -18,11 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="Center">
-<a href="https://dev.to/noormuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noormuhammadd" height="30" width="40" /></a>
 <a href="https://twitter.com/nmuhammad321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmuhammad321" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-nur-muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nur-muhammad" height="30" width="40" /></a>
-<a href="https://medium.com/@nurmuhammadd2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nurmuhammadd2003" height="30" width="40" /></a>
-<a href="/nurmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nurmuhammad" height="30" width="40" /></a>
+<a href="https://fb.com/mdnur2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnur2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
