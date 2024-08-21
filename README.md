@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
 
-- 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
+- ### 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
 
-- 📝 I regularly write articles on [https://dev.to/noormuhammadd](https://dev.to/noormuhammadd)
+- ### 📝 I regularly write articles on [https://dev.to/noormuhammadd](https://dev.to/noormuhammadd)
 
-- 💬 Ask me about **Javacript, React.js**
+- ### 💬 Ask me about **Javacript, React.js**
 
-- 📫 How to reach me **nurmuhammadd2003@gmail.com**
+- ### 📫 How to reach me **nurmuhammadd2003@gmail.com**
 
-- ⚡ Fun fact **I love to make people laugh and keep myself happy.**
+- ### ⚡ Fun fact **I love to make people laugh and keep myself happy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="Center">
