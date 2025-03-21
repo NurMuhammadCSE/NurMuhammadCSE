@@ -1,8 +1,13 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Nur Muhammad</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
-<img 
-align="center"  src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
+<p align="center">
+  <a>
+    <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
+
+  </a>
+</p>
+
 
 - ### 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
 
