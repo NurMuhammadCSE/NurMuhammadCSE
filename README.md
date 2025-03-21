@@ -9,7 +9,7 @@
 </p>
 
 
-- ### 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
+- ### 🌱 I’m currently learning **System Design, PostgreSQL**
 
 - ### 📝 I regularly write articles on [https://dev.to/noormuhammadd](https://dev.to/noormuhammadd)
 
